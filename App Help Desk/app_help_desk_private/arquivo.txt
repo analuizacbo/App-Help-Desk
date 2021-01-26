@@ -1,0 +1,14 @@
+Notebook#Hardware#Não Liga
+#Chamado teste#Impressora#Não imprime
+#Notebook#Software#windowsn
+#PC#Criação Usuário#teste 
+4#PC#Criação Usuário#teste 
+4#Teste 1 #Criação Usuário#teste teste
+1##Criação Usuário#testeu
+1##Criação Usuário#testeu
+1##Criação Usuário#testeu
+1##Criação Usuário#testeu
+1#Teste 2#Software#teste2
+4#Chamado teste#Software#789456
+1#TITULO#Hardware#789456
+1#testando #Rede#Não conecta
